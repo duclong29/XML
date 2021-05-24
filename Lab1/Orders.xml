@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BookOrder OrderNo = "29062000">
+    <OrderDate>2000-06-29</OrderDate>
+    <Customer>
+        <FirstName>Chu Duc </FirstName>
+        <lastName>Long</lastName>
+    </Customer>
+    <Book>
+        <Title>English</Title>
+        <author>Long</author>
+    </Book>
+</BookOrder>
