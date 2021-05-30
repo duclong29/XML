@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type = "text/xsl" href = "state.xsl" ?>
+<class>
+    <state>
+        <name>California</name>
+        <population>33871648 people</population>
+        <capital>sacramento</capital>
+        <bird>quail</bird>
+        <flower>golden poppy</flower>
+    </state>
+    <state>
+        <name>Massachusetts</name>
+        <population>6349097 people</population>
+        <capital>bosston</capital>
+        <bird>chickadee</bird>
+        <flower>mayflower</flower>
+    </state>
+    <state>
+        <name>new york</name>
+        <population>18976457 people</population>
+        <capital>albany</capital>
+        <bird>bluebird</bird>
+        <flower>rose</flower>
+    </state>
+</class>
