@@ -1,0 +1,30 @@
+{
+  "widget" : {
+    "debug": "on",
+    "window": {
+      "title": "Sample konfabulator widget",
+      "name": "main_window",
+      "width": "500",
+      "height": "500"
+    },
+    "image": {
+      "src": "Image/Sun.png",
+      "name": "sun1",
+      "hoffset": "250",
+      "voffset": "250",
+      "alignment": "center"
+    },
+    "text": {
+      "data": "Click here",
+      "size": "36",
+      "style": "bold",
+      "name": "text1",
+      "hoffset": "250",
+      "voffset": "100",
+      "alignment": "center",
+      "onMouseUp": {
+        "sun1.opacity": "(sun1.opacity / 100) * 90"
+      }
+    }
+  }
+}
